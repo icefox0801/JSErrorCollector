@@ -1,0 +1,24 @@
+{
+  "name": "js-error-collector",
+  "version": "1.0.0",
+  "description": "页面javascript错误上报",
+  "main": "collector.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icefox0801/JSErrorCollector.git"
+  },
+  "keywords": [
+    "javascript",
+    "error",
+    "ajax"
+  ],
+  "author": "icefox0801@hotmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/icefox0801/JSErrorCollector/issues"
+  },
+  "homepage": "https://github.com/icefox0801/JSErrorCollector#readme"
+}
